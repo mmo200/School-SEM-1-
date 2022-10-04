@@ -2,15 +2,10 @@
 '''
 Assigment No.: 1 
 
-Course PROG12974
-
-Michael Aaron Nolk 
-
-Student Num: 991673010
+Course PROG(PYTHON)
 
 Submission Date: 
 
-Instructor's Name: Syed Tanbeer 
 '''
 #Exircise 1 || Square-Cube Table [Mark 6]
  
@@ -61,4 +56,4 @@ elif userInput == 5: #processing the amount of lines to output
     print(f'N   N^2    N^3\n{num1}    {squaredNum1}     {cubedNum1} \n{num2}    {squaredNum2}      {cubedNum2} \n{num3}    {squaredNum3}      {cubedNum3}\n{num4}    {squaredNum4}     {cubedNum4}\n{num5}    {squaredNum5}     {cubednum5}')
     print('lines: 5')
     
-print("Square-Cube Table by: Micahel Aaron Nolk, #991673010")#output stamp
+print("Square-Cube Table by: Mm0)")#output stamp
